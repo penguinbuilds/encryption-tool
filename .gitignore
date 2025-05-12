@@ -1,6 +1,4 @@
 test/
-*.txt
-*.jpg
 *.obscured
 
 # Byte-compiled / optimized / DLL files
